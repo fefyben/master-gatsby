@@ -1,5 +1,8 @@
 import React from 'react';
 
-export default function PizzasPage() {
-  return <p>Hey, I'm the Pizzas page!</p>;
-}
+const PizzasPage = () => (
+  <>
+    <p>Hey, I'm the Pizzas page!</p>
+  </>
+);
+export default PizzasPage;
