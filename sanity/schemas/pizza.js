@@ -1,4 +1,4 @@
-import { MdLocalPizza as icon } from 'react-icons/md';
+import { FaPizzaSlice as icon } from 'react-icons/fa';
 
 import PriceInput from '../components/PriceInput';
 
